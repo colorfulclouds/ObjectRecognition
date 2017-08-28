@@ -182,3 +182,11 @@ $ deactivate
 论文：MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 
 论文链接：https://arxiv.org/abs/1704.04861v1
+
+https://github.com/tensorflow/models/tree/master/inception#geitting-started
+
+
+https://github.com/balancap/SSD-tensorflow
+
+
+https://github.com/Zehaos/MobileNet
