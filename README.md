@@ -193,3 +193,6 @@ https://github.com/Zehaos/MobileNet
 
 
 https://github.com/rbgirshick/py-faster-rcnn  安装caffe2
+
+
+http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/detection.ipynb
